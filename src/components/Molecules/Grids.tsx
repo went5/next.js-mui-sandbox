@@ -45,10 +45,10 @@ export default function Grids() {
   };
 
   return (
-    <Grid sx={{ flexGrow: 1 }} container spacing={2}>
+    <Grid sx={{ flexGrow: 1 }} container>
       <Grid item xs={12}>
         <Grid
-         sx ={{height:100}}
+         sx ={{height:300}}
           container
           direction={direction}
           justifyContent={justifyContent}
@@ -87,7 +87,7 @@ export default function Grids() {
                   onChange={handleChange}
                   row
                 >
-                  {[0, 0.5, 1, 2, 3, 4, 8, 12].map((value) => (
+                  {[0, 0.5, 1, 2, 3, 4].map((value) => (
                     <FormControlLabel
                       key={value}
                       value={value.toString()}
