@@ -18,9 +18,10 @@ or:
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/went5/Next.js-MUI-Sandbox)
 
-[![DemoPage]](https://next-js-mui-sandbox.vercel.app/)
+[Demo Page](https://next-js-mui-sandbox.vercel.app/)
 
 ## Links
 
 [Next.js](https://nextjs.org)  
 [MUI](https://mui.com/getting-started/installation/)
+<a href="https://icons8.com/icon/QyrPJCaOWRfP/demo">Demo icon by Icons8</a>
