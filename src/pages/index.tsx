@@ -6,10 +6,10 @@ import Box from "@mui/material/Box";
 import Link from "../Link";
 import ProTip from "../ProTip";
 import Copyright from "../Copyright";
-import IndexList from "../components/IndexList";
+import IndexList from "../components/Molecules/IndexList";
 import { Avatar } from "@mui/material";
 import BasicButtons from "../components/Molecules/BasicButtons";
-import ComponentContents from "../components/Templates/ComponentContents";
+import ComponentContents from "../components/Molecules/ComponentContents";
 import Containers from "../components/Molecules/Containers";
 import Grids from "../components/Molecules/Grids";
 
